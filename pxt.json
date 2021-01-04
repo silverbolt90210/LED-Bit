@@ -1,6 +1,6 @@
 {
     "name": "LEDBit",
-    "version": "1.0.3",
+    "version": "1.0",
     "description": "Extensão LED StemLab para micro:bit V1.0",
     "license": "MIT",
     "dependencies": {
